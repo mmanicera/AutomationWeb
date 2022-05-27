@@ -1,0 +1,13 @@
+{
+"buttonSend":"#wpforms-submit-870",
+"buttonApplyNow":"//a[text()='Apply now!']",
+"bodyFormJoinUsOpen":".dl-modal.dl-joinus-modal.open",
+"bodyFormJoinUs":".dl-modal.dl-joinus-modal.big",
+"fieldName":"#wpforms-870-field_0",
+"fieldEmail":"#wpforms-870-field_1",   
+"fieldLinkedin":"#wpforms-870-field_20", 
+"fieldComments":"#wpforms-870-field_2", 
+"modalSuccess":"#wpforms-confirmation-870",
+"buttonOk":".button.btn-close-modal-success"
+
+}
